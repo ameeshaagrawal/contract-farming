@@ -1,7 +1,7 @@
 {
-  "name": "cryto-democracy",
+  "name": "contract-farming",
   "version": "1.0.0",
-  "description": "A decentralised system which can be used by the public to track where the country's funds and taxes are used",
+  "description": "A Blockchain-based application helping farmers and contractors to trade in a trustless way.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
