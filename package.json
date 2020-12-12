@@ -1,0 +1,17 @@
+{
+  "name": "cryto-democracy",
+  "version": "1.0.0",
+  "description": "A decentralised system which can be used by the public to track where the country's funds and taxes are used",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ameesha Agrawal",
+  "license": "ISC",
+  "dependencies": {
+    "truffle": "^5.1.57",
+    "@openzeppelin/cli": "^2.8.2",
+    "@openzeppelin/contracts": "^3.3.0",
+    "@openzeppelin/test-helpers": "^0.5.9"
+  }
+}
