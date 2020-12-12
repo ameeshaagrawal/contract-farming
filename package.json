@@ -4,7 +4,8 @@
   "description": "A Blockchain-based application helping farmers and contractors to trade in a trustless way.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile": "truffle compile",
+    "test": "truffle test"
   },
   "author": "Ameesha Agrawal",
   "license": "ISC",
